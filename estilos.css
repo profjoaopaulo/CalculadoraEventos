@@ -1,4 +1,4 @@
-.componentes {
+.inputs {
 
     margin: 10px;
     width: 100px;
@@ -7,7 +7,14 @@
 .botoes {
 
     margin: 10px;
-    width: 50px;
+    width: 60px;
     font-size: 20px;
     font-family: Impact;
+}
+
+#resultado {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-style: oblique;
 }
